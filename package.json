@@ -1,0 +1,23 @@
+{
+  "name": "rest_express-postgres",
+  "version": "1.0.0",
+  "description": "\"RESTful API with Node.js, Express, and PostgreSQL\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjseymour66/rest_express-postgres.git"
+  },
+  "author": "Ryan Seymour",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rjseymour66/rest_express-postgres/issues"
+  },
+  "homepage": "https://github.com/rjseymour66/rest_express-postgres#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.7.1"
+  }
+}
